@@ -35,6 +35,11 @@ Add execution permission to iw-dump.sh
 Replace ``wlan0`` with your interface. You can check your available interfaces by running the ``sudo iw dev`` command.
 
 
+## Screenshot
+![Screenshot](https://raw.githubusercontent.com/NomanProdhan/iw-dump/master/iw_dump_screenshot.png)
+
+
+
 ### Contact
 - Twitter @[NomanProdhan](https://twitter.com/nomanProdhan)
 - YouTube @[nomanprodhan](https://www.youtube.com/c/NOMANPRODHAN)
